@@ -1,3 +1,4 @@
+<meta charset>
 class ScratchFetch {
     constructor() {
     }
