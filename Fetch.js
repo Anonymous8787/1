@@ -1,4 +1,5 @@
 <meta charset>
+<pre style="word-wrap: break-word; white-space: pre-wrap;">
 class ScratchFetch {
     constructor() {
     }
